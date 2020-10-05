@@ -1,3 +1,8 @@
+<div align="right">
+<h4>Harshit Hiremath</h4>
+<h4>1BM18CS036</h4>
+<h4>A2 Batch</h4>
+</div>
 <div align="center">
 <h1> Configuring Static Routes in Multiple Router Topology </h1>
 </div>
@@ -10,25 +15,37 @@
 4. Adding static routes to the routers using `ip route <dest. network> <subnet mask> <next hop>` in _configure teminal_ mode.
 5. Pinging PC1 from PC0 and PC0 from PC1 now works as expected (shown in images below).
 
+---
+
 ## Topology
 
-![topology](images/topology.png)
+## ![topology](images/topology.png)
+
+---
 
 ## Router R1 Static IP routes
 
-![routerR1_static_route](images/R1_routing.png)
+## ![routerR1_static_route](images/R1_routing.png)
+
+---
 
 ## Router R2 Static IP routes
 
 ![routerR2_static_route](images/R2_routing.png)
 
+---
+
 ## Router R3 Static IP routes
 
 ![routerR3_static_route](images/R3_routing.png)
 
+---
+
 ## PC0 pinging PC1
 
 ![PC0_ping](images/PC0_ping.png)
+
+---
 
 ## PC1 pinging PC0
 
