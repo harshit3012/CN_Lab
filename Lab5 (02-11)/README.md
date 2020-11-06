@@ -12,7 +12,7 @@
 
     ![topo](images/1_topo.png)
 
--   DHCP service in the Server0 was enabled with the folllowing configs.
+-   DHCP service in the Server0 was enabled with the following configs.
 
     ![dhcp_service](images/1_dhcp_service.png)
 
